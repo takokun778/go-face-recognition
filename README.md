@@ -1,7 +1,7 @@
 # go-face-recognition
 
 ```shell
-./go 1.19.8
+./go.sh 1.19.8
 ```
 
 ```shell
